@@ -4,9 +4,9 @@
 # Un gusto.
 
 # Algunos comentarios:
-# 1) El pytest no me deja pasar si cambio de nombre
-#    duration a duration_hrs, de distance a distance_km,
-#    se speed a speed_hmh, de weight a weight_km
+# El pytest no me deja pasar si cambio de nombre
+# duration a duration_hrs, de distance a distance_km,
+# se speed a speed_hmh, de weight a weight_km
 
 from dataclasses import asdict, dataclass
 
